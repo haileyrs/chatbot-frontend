@@ -46,7 +46,7 @@
             <MenuBtn />        
           </span>
         </button>
-        <strong class="text-xl uppercase">Best-E</strong>
+        <strong class="text-xl uppercase">Chatbot</strong>
       </div>
     </AppBar>
   </svelte:fragment>
