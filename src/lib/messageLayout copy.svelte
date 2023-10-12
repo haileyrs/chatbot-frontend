@@ -115,7 +115,7 @@
 			newMessage = {
 				id: idVal,
 				host: false,
-				name: 'buddy',
+				name: 'Chatbot',
 				message: res.output,
 				messageId: res.message_metadata?.message_id
 			};
