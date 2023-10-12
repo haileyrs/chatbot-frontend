@@ -115,7 +115,7 @@
 			newMessage = {
 				id: idVal,
 				host: false,
-				name: 'Best-E',
+				name: 'buddy',
 				message: res.output,
 				messageId: res.message_metadata?.message_id
 			};
